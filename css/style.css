@@ -479,7 +479,7 @@
     .text_content h2{
         font-size: 36px;
         font-weight: 700;
-        margin-top: 200px;
+        margin-top: 220px;
     }
     .text_content h3{
         margin-top: 50px;
@@ -489,20 +489,20 @@
         flex-direction: column;
     }
     .lg_img img{
-        width: 390px;
+        width: 340px;
     }
     .img1{
         margin-top: 150px;
         margin-bottom: 70px;
-        width: 390px;
+        width: 340px;
     }
     .img3{
         margin-top: 70px;
-        width: 390px;
+        width: 340px;
     }
     .img2{
         margin-top: 70px;
-        width: 390px;
+        width: 340px;
     }
     .search_container{
         display: none !important;
@@ -539,14 +539,14 @@
     .img5{
         margin-top: 70px;
         margin-bottom: 70px;
-        width: 390px;
+        width: 340px;
     }
     .img6{
         margin-top: 55px;
-        width: 390px;
+        width: 340px;
     }
     .img7{
-        width: 390px;
+        width: 340px;
     }
     .cart_content{
         flex-direction: column;
@@ -561,7 +561,7 @@
     .text_content h2{
         font-size: 36px;
         font-weight: 700;
-        margin-top: 180px;
+        margin-top: 220px;
     }
     .text_content h3{
         margin-top: 50px;
@@ -571,20 +571,20 @@
         flex-direction: column;
     }
     .lg_img img{
-        width: 700px;
+        width: 630px;
     }
     .img1{
         margin-top: 150px;
         margin-bottom: 70px;
-        width: 700px;
+        width: 630px;
     }
     .img3{
         margin-top: 70px;
-        width: 700px;
+        width: 630px;
     }
     .img2{
         margin-top: 70px;
-        width: 700px;
+        width: 630px;
     }
     .search_container{
         display: none !important;
@@ -621,14 +621,14 @@
     .img5{
         margin-top: 70px;
         margin-bottom: 70px;
-        width: 700px;
+        width: 630px;
     }
     .img6{
         margin-top: 55px;
-        width: 700px;
+        width: 630px;
     }
     .img7{
-        width: 700px;
+        width: 630px;
     }
     .cart_content{
         flex-direction: column;
